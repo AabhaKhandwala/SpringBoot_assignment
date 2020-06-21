@@ -1,0 +1,23 @@
+div {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2px blue;
+  background-size: 50% 200%;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  color: rgb(30, 4, 48);
+  font-weight: 700;
+  font-size: 5.5em;
+  text-transform: uppercase;
+}
+p {
+  font-size: 2em;
+}
+input {
+  width: 10%;
+  padding: 10px 20px;
+  font-size: 1em;
+}
